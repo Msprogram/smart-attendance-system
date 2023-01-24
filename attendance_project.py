@@ -4,10 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 import pyttsx3
-import dlib
 
-
-PATH= 'shape_predictor_68_face_landmarks.dat'    
 
 
 
